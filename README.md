@@ -1,14 +1,14 @@
 # Natural-Sampling
-# Aim:
+## Aim:
 
   The aim of this experiment is to understand and demonstrate the concept of natural sampling in signal processing, highlighting its differences from ideal sampling and its practical applications.
   
-# Tools required:
+## Tools required:
   * Colab (for executing Python code)
   
   * Libraries: NumPy, Matplotlib
 
-# Program:
+## Program:
 
 ~~~import numpy as np
 import matplotlib.pyplot as plt
@@ -86,11 +86,11 @@ plt.tight_layout()
 plt.show()
 ~~~
 
-# Output Waveform:
+## Output Waveform:
 
 ![image](https://github.com/user-attachments/assets/6f5f21e3-c874-4791-8434-14f179ff9834)
 
 
-# Results:
+## Results:
 
 In natural sampling, the original signal is multiplied by a pulse train. This process generates a sampled signal that retains portions of the original signal's waveform during the "on" intervals of the pulse train. By applying appropriate filtering techniques, the sampled signal can be reconstructed into an approximation of the original message signal. The accuracy of the reconstructed signal depends on the sampling frequency and pulse width.
