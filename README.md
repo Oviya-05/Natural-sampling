@@ -88,8 +88,7 @@ plt.show()
 
 ## Output Waveform:
 
-![image](https://github.com/user-attachments/assets/6f5f21e3-c874-4791-8434-14f179ff9834)
-
+![image](https://github.com/user-attachments/assets/d0903d09-ac7e-4d98-ae8b-6245b6adcc73)
 
 ## Results:
 
